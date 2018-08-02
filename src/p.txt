@@ -1,0 +1,4 @@
+str 20 #800
+ld r5 20
+add r5 20 r2
+str 19 r2
